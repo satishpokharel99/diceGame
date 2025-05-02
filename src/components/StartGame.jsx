@@ -4,7 +4,7 @@ const StartGame = ({ toggleGameStarted }) => {
   return (
     <StartGameStyle>
       <div className="main">
-        <img src="/images/dices.png" />
+        <img src="public/images/dices.png" />
         <div className="content">
           <p>Guess the</p>
           <h1>DICE GAME</h1>
